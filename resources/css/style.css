@@ -1,1 +1,14 @@
-nul
+/* Set body colors and fonts */
+body {
+    font-family: "Gill Sans Extrabold", sans-serif;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+  color: #dddddd;
+  text-align: center;
+}
+
