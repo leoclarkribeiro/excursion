@@ -1,14 +1,41 @@
 /* Set body colors and fonts */
 body {
-    font-family: "Gill Sans Extrabold", sans-serif;
     background-color: black;
-    text-align: center;
 }
 
 h1 {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Verdana;
+  font-weight: normal;
   font-size: 50px;
   color: #dddddd;
   text-align: center;
 }
 
+h2 {
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+  color: #dddddd;
+  text-align: center;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  font-weight: normal;
+  color: grey;
+  text-align: center;
+}
+
+footer {
+  font-family: Verdana;
+  color: grey;
+  text-align: right;
+}
+
+
+/* unvisited link */
+a:link {
+  font-size: 16px;
+  color: aquamarine;
+}
