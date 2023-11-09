@@ -1,6 +1,7 @@
 /* Set body colors and fonts */
 body {
     background-color: black;
+    text-align: center;
 }
 
 h1 {
@@ -27,7 +28,7 @@ p {
   text-align: center;
 }
 
-footer {
+.footer {
   font-family: Verdana;
   color: grey;
   text-align: right;
